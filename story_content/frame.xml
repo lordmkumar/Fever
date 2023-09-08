@@ -48,7 +48,7 @@
       </optiongroup>
       <optiongroup name="menuoptions">
         <options>
-          <option name="flow" value="free" />
+          <option name="flow" value="restricted" />
           <option name="wraplistitems" value="false" />
           <option name="tooltips" value="true" />
           <option name="autocollapse" value="true" />
@@ -1577,19 +1577,18 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.5WxRwexv5Km" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.5WxRwexv5Km" displaytext="Fever Coponent" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5WxRwexv5Km.5YGfdEyInVL" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5WxRwexv5Km.60UZr55ujXY" displaytext="               " expand="false" type="slide" />
             <slidelink slideid="_player.5WxRwexv5Km.6RDa7AKvYaG" displaytext="Approach to a patient with Fever" expand="false" type="slide" />
             <slidelink slideid="_player.5WxRwexv5Km.6OAtKPw7Sgn" displaytext="Learning Objectives" expand="false" type="slide" />
-            <slidelink slideid="_player.5WxRwexv5Km.6Jp3YXgak85" displaytext="A 20-year-old young man presents with 1 week history of intermittent fever with chills and headache off and on. His Malarial parasite film shows plasmodium falciparum with normal hemoglobin. What will be the most appropriate treatment?" expand="false" type="slide" />
+            <slidelink slideid="_player.5WxRwexv5Km.6Jp3YXgak85" displaytext="Pre-Test1" expand="false" type="slide" />
             <slidelink slideid="_player.5WxRwexv5Km.5VuLjHKEDrU" displaytext="A 45 year old presents with fever and headache. She returned from Thailand 3 days back. On examination , she has widespread maculopapular rash. Blood results are as follows: Hb  16.2 g/dl Platelets   96 *109/l WBC   2.4 *109/l Malarial film: Negative  What is the most likely diagnosis?" expand="false" type="slide" />
-            <slidelink slideid="_player.5WxRwexv5Km.5bBKHxYj4EE" displaytext="A 16-year-old presents with continuous fever for last one week. On examination temperature is 102 degrees Fahrenheit and pulse rate is 88 bpm. Which would be the diagnostic test for this condition?" expand="false" type="slide" />
-            <slidelink slideid="_player.5WxRwexv5Km.6KbNcK9pkQ5" displaytext="Scenario 1: 16 year old male, presenting fever for the past 3 days" expand="false" type="slide" />
-            <slidelink slideid="_player.5WxRwexv5Km.6rfQsFaMFeR" displaytext="Base Layer" expand="false" type="slide" />
+            <slidelink slideid="_player.5WxRwexv5Km.5bBKHxYj4EE" displaytext="Pre-Test3" expand="false" type="slide" />
+            <slidelink slideid="_player.5WxRwexv5Km.6KbNcK9pkQ5" displaytext="Fever Scenario 1" expand="false" type="slide" />
+            <slidelink slideid="_player.5WxRwexv5Km.6rfQsFaMFeR" displaytext="Steps to follow to diagnose fever" expand="false" type="slide" />
             <slidelink slideid="_player.5WxRwexv5Km.631HFeD6AM7" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.5WxRwexv5Km.6gIXW87Lek7" displaytext="Types of Fever" expand="false" type="slide" />
+            <slidelink slideid="_player.5WxRwexv5Km.5qQ0fGLJg9c" displaytext="Aetiology / Differential Diagnosis" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
